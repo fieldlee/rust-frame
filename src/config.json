@@ -1,0 +1,7 @@
+{
+    "serverBind": "127.0.0.1:8080",
+    "redis": "redis://127.0.0.1/",
+    "cacheTimeout": 20,
+    "sentryKey": "https://examplePublicKey@o0.ingest.sentry.io/0",
+    "mysql":"mysql://root:mysql@localhost:3306/budshome"
+}
